@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "sachin",
+        "age": "24",
+        "course": "csit",
+        "attendance": {
+            "2026-05-01": "Absent",
+            "2026-05-02": "Absent"
+        }
+    },
+    {
+        "id": 2,
+        "name": "rohit",
+        "age": "23",
+        "course": "csit",
+        "attendance": {
+            "2026-05-01": "Absent",
+            "2026-05-02": "Present"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Rita",
+        "age": "21",
+        "course": "bca",
+        "attendance": {
+            "2026-05-02": "Present"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Satisdh",
+        "age": "32",
+        "course": "csit",
+        "attendance": {
+            "2026-05-02": "Present"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Ram ",
+        "age": "32",
+        "course": "Bit",
+        "attendance": {
+            "2026-05-02": "Absent"
+        }
+    }
+]
